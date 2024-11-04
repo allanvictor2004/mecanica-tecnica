@@ -1,4 +1,4 @@
-# Progrmação Aplicada a Mecânica Técnica
+# Programação Aplicada a Mecânica Técnica
 
 ## Descrição
 Algoritmos desenvolvidos durante a disciplina de Mecânica Técnica, para aprimorar o entendimento dos conceitos de forças e momentos. 
